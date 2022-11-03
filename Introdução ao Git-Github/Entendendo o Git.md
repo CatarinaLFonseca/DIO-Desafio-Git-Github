@@ -1,6 +1,6 @@
 # **Git**
 
-#### O Git em si é um sistema de versionamento de código distribuído, criado em 2005 pelo Linus Torvalds, usado no desenvolvimento de software e para registrar o histórico de edições de arquivos
+#### O Git em si é um sistema de versionamento de código distribuído, criado em 2005 pelo Linus Torvalds, usado no desenvolvimento de software e para registrar o histórico de edições de arquivos.
 
 ### SHA1
 
